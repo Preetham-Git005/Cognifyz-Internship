@@ -81,3 +81,10 @@ This project helped me build strong hands-on experience in:
 ## 📣 Acknowledgment
 
 Thanks to **Cognifyz Technologies** for providing this internship opportunity and guiding me through a practical and insightful data engineering journey.
+
+---
+
+## ✅ Internship Completion Certificate
+
+![Certificate](certificates/internship completion certificate.jpg)
+
