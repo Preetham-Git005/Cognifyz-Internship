@@ -86,5 +86,5 @@ Thanks to **Cognifyz Technologies** for providing this internship opportunity an
 
 ## ✅ Internship Completion Certificate
 
-![Certificate](certificates/internship completion certificate.jpg)
+![Certificate](certificates/internship_completion_certificate.jpg)
 
